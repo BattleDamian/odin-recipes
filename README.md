@@ -1,1 +1,1 @@
-This is a basic recipe website to show understanding of basic HTML.
+This is a basic recipe website to demonstrate understanding of basic HTML.
